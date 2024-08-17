@@ -11,9 +11,16 @@ I am diving into the dataset, which includes so much information but i am mainly
 ### Purchase Frequency by Gender: 
 I will explore how often different genders make purchases, helping us tailor our marketing efforts to specific customer segments.
 ### Age Distribution:
- I will examine the distribution of customers across age groups, providing valuable insights into the customer demographics.
+I will examine the distribution of customers across age groups, providing valuable insights into the customer demographics.
 ### Shopping Satisfaction Levels: 
 I will analyze satisfaction levels among the customers, identifying areas for improvement to enhance overall satisfaction and loyalty.
+
+## Results.
+
+The dataset contains various columns related to customer demographics and behavior, such as age, gender, purchase frequency, browsing habits, and satisfaction levels.
+- The analysis of purchase frequency by gender revealed distinct purchasing patterns across different customer segments. The data indicates that gender plays a significant role in shopping behavior. For instance, females tend to shop more frequently, with a higher proportion engaging in monthly or bi-monthly purchases compared to other genders.
+- The age distribution analysis provided valuable insights into our customer demographics. The majority of the customers fall within the 22-30 age range, indicating that our products and services resonate most strongly with younger adults.
+- In my findings of shopping satisfaction levels revealed mixed results. While a significant portion of the customers expressed high levels of satisfaction (categorized as "Good"), there remains a noteworthy segment that reported lower satisfaction levels ("Bad").
 
 ## Recommendations.
 
@@ -27,7 +34,7 @@ In my findings, i observed that customers aged 21-25 tend to shop more frequentl
 1. Tailor marketing efforts to the interests and preferences of the 30-55 age group. Highlight products and promotions that resonate with their lifestyles and needs.
 2. Create engaging content, such as blog posts, social media content, and videos, that appeals to the interests and concerns of the 30-55 age group. This can help build rapport and encourage them to explore more products.
 
-My analysis indicates that customer satisfaction levels are currently at a mid-level, indicating room for improvement. While not at an optimal level, this presents an opportunity for us to enhance the customer experience and raise satisfaction levels across the board.
+My analysis indicates that customer satisfaction levels are currently at a mid-level, indicating room for improvement. While not at an optimal level, this presents an opportunity for us to enhance the customer experience and raise satisfaction levels across the board. There should be  focus on the things that might be causing dissatisfaction, like product quality or pricing, to make sure more of the customers have a positive experience. By making these improvements, we can keep our customers happy and coming back.
 
 ## Conclusion.
 
